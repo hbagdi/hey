@@ -1,3 +1,9 @@
+# Changes in the fork
+
+- Uses new Go version
+- Verifies TLS certs
+- See commit log for other changes
+
 ![hey](http://i.imgur.com/szzD9q0.png)
 
 [![Build Status](https://travis-ci.org/rakyll/hey.svg?branch=master)](https://travis-ci.org/rakyll/hey)
